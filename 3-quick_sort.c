@@ -1,5 +1,4 @@
 #include "sort.h"
-
 /**
  * swap_items - Swaps two items in an array.
  * @array: The array to modify.
