@@ -68,4 +68,5 @@ void quick_sort(int *array, size_t size)
 	if (array != NULL)
 	{
 		quick_sort_range_lomuto(array, 0, size - 1, size);
+	}
 }
